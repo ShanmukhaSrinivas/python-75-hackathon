@@ -1,4 +1,4 @@
-#Client side basic program
+#Client side Networking
 import socket
 
 host = "127.0.0.1"
