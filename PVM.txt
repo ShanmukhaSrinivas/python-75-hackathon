@@ -1,0 +1,5 @@
+Python Virtual Machine(PVM):
+	A python program contains source code that is first compiled by python compiler to produce byte code.this byte code is given to python virtual machine(PVM) which
+converts the byte code to machine code.This macine code is run by the processor and finally the results are produced. Python virtual machine is a software that contains
+an interpreter that converts the byte code to machine code.PVM is most often called as python interpreter.The PVM of pypy contains a compiler in addition to the 
+interpreter.This compiler is called Just In time(JIT)compiler which is useful to speed up execution of the python program. 
