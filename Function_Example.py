@@ -1,4 +1,4 @@
-#Defining a function
+#Defining a function performing multiple operations
 def function_01(n1, n2):
     a = n1+n2
     b = n1-n2
