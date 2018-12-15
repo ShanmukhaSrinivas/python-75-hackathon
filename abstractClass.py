@@ -1,6 +1,5 @@
 #Abstract Class Example
-
-from abc import ABC,abstractmethod
+from abc import ABC, abstractmethod
 class Operation(ABC):
     def __init__(self,a,b):
         self.a=a
